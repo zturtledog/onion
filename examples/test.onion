@@ -1,0 +1,23 @@
+# test.onion
+
+import "tsx.dll" as tsx
+
+func main {
+    23+34*57+(76 % 34) / 2^2
+    6+quelve()+6
+    hello(option.some(23))
+}
+
+enum option :'t: {
+    none # optional type data
+    some(:'t:)
+}
+
+@(hello) print hello world " # (times) @
+func hello (times :option(int):) : # : ident (ws* ident ws* [, ws* ident]* ws*) :
+    if times != :option:.none :
+        loop times.of() : # dofs 
+            log("Hello, World")
+            # need to fix indent rules /whatever/
+
+# this is much better #

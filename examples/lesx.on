@@ -1,0 +1,15 @@
+# string beats comment, string, and at
+"sdf # ssxfs # @(dfs) sf @ \" "
+# at beats string, at, and comment
+@(dfs) "sf" # ssxfs # \@ @
+# comment beats at and string
+# @(dfs) sf @ "ssxfs" #
+
+
+@(ident) testing docs
+log(out)
+@(ident) testing docs @ log(out)
+"sdf @(s) sdf @ "
+@(s) ds "sdf " sdf @ "Sdf"
+@(s) sadfa " @(s) " dsf @ " 
+# @dsf @(s) # @(f) dsf \@ dsf @ # dsf 

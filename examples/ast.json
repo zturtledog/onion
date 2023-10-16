@@ -1,0 +1,3173 @@
+[
+  {
+    "type": "keyword.import",
+    "value": "import",
+    "line": 2,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "string",
+    "value": " ",
+    "line": 2,
+    "col": 7,
+    "depth": 0
+  },
+  {
+    "type": "keyword.as",
+    "value": "as",
+    "line": 2,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 2,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "keyword.class",
+    "value": "class",
+    "line": 5,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 5,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 5,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 5,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "keyword.class",
+    "value": "class",
+    "line": 6,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 6,
+    "col": 7,
+    "depth": 0
+  },
+  {
+    "type": "keyword.extends",
+    "value": "extends",
+    "line": 6,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":[std.collections]:",
+    "line": 6,
+    "col": 21,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 6,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 6,
+    "col": 42,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 9,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "loop_container",
+    "line": 9,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 9,
+    "col": 20,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 11,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 11,
+    "col": 8,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 11,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.in",
+    "value": "in",
+    "line": 11,
+    "col": 20,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 11,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 11,
+    "col": 29,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 11,
+    "col": 30,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 12,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 12,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 12,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.in",
+    "value": "in",
+    "line": 12,
+    "col": 21,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 12,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 12,
+    "col": 30,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 13,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 13,
+    "col": 8,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.in",
+    "value": "in",
+    "line": 13,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 13,
+    "col": 17,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 13,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 13,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 14,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 14,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.in",
+    "value": "in",
+    "line": 14,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 14,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 14,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 17,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 17,
+    "col": 8,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.of",
+    "value": "of",
+    "line": 17,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 17,
+    "col": 17,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 17,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 17,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 18,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 18,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.of",
+    "value": "of",
+    "line": 18,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 18,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 18,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 21,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 21,
+    "col": 8,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 0,
+    "line": 21,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "op.range",
+    "value": "..",
+    "line": 21,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 100,
+    "line": 21,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 21,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 21,
+    "col": 17,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 21,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 22,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 22,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 0,
+    "line": 22,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "op.range",
+    "value": "..",
+    "line": 22,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 100,
+    "line": 22,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 22,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 22,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 23,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 0,
+    "line": 23,
+    "col": 8,
+    "depth": 0
+  },
+  {
+    "type": "op.range",
+    "value": "..",
+    "line": 23,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 100,
+    "line": 23,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 23,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 23,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.for",
+    "value": "for",
+    "line": 24,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 0,
+    "line": 24,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "op.range",
+    "value": "..",
+    "line": 24,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 100,
+    "line": 24,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 24,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.loop",
+    "value": "loop",
+    "line": 27,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 23,
+    "line": 27,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 27,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 27,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.loop",
+    "value": "loop",
+    "line": 28,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 23,
+    "line": 28,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 28,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.loop",
+    "value": "loop",
+    "line": 29,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 23,
+    "line": 29,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "i",
+    "line": 29,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 29,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 29,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.loop",
+    "value": "loop",
+    "line": 30,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 23,
+    "line": 30,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "i",
+    "line": 30,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 30,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.loop",
+    "value": "loop",
+    "line": 31,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 31,
+    "col": 9,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 31,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.loop",
+    "value": "loop",
+    "line": 32,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 32,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.while",
+    "value": "while",
+    "line": 35,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 35,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "bool.true",
+    "value": "true",
+    "line": 35,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 35,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 35,
+    "col": 17,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 35,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.while",
+    "value": "while",
+    "line": 36,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 36,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "bool.true",
+    "value": "true",
+    "line": 36,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 36,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 36,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.while",
+    "value": "while",
+    "line": 37,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "bool.true",
+    "value": "true",
+    "line": 37,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 37,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 37,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.while",
+    "value": "while",
+    "line": 38,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "bool.true",
+    "value": "true",
+    "line": 38,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 38,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 39,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 42,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 42,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 42,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 42,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 42,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 42,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 42,
+    "col": 31,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 42,
+    "col": 39,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 42,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 42,
+    "col": 55,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 42,
+    "col": 56,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 43,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 43,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 43,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 43,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 43,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 43,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 43,
+    "col": 32,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 43,
+    "col": 40,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 43,
+    "col": 42,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 44,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 44,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 44,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 44,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 44,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 44,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 44,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 44,
+    "col": 40,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 44,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 45,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 45,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 45,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 45,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 45,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 45,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 45,
+    "col": 27,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 46,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 46,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 46,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 46,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 46,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 47,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 47,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 47,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 48,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 48,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 48,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 48,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 48,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 48,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 48,
+    "col": 31,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 48,
+    "col": 39,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 48,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 48,
+    "col": 42,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 49,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 49,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 49,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 49,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 49,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 49,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 49,
+    "col": 32,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 49,
+    "col": 40,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 50,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 50,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 50,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 50,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 50,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 50,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 50,
+    "col": 31,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 50,
+    "col": 39,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 50,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 50,
+    "col": 43,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 50,
+    "col": 44,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 51,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 51,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 51,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 51,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 51,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 51,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 51,
+    "col": 32,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 51,
+    "col": 40,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 51,
+    "col": 42,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 52,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 52,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 52,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 52,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 52,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 52,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 52,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 52,
+    "col": 27,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 53,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 53,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 53,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 53,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 53,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 53,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 54,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 54,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 54,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 54,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 54,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 54,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 54,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 54,
+    "col": 28,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 54,
+    "col": 29,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 55,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 55,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 55,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 55,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 55,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 55,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 55,
+    "col": 27,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 56,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 56,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 56,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 56,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 56,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 56,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 56,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 56,
+    "col": 32,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 56,
+    "col": 40,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 56,
+    "col": 42,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 56,
+    "col": 56,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 56,
+    "col": 57,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 57,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 57,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 57,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 57,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 57,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 57,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 57,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 57,
+    "col": 33,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 57,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 57,
+    "col": 43,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 58,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 58,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 58,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 58,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 58,
+    "col": 17,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 58,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 58,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 58,
+    "col": 27,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 58,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 58,
+    "col": 42,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 59,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 59,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 59,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 59,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 59,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 59,
+    "col": 20,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 59,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":result(int):",
+    "line": 59,
+    "col": 28,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 60,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 60,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 60,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 60,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 60,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 60,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 60,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 60,
+    "col": 32,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 60,
+    "col": 40,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 60,
+    "col": 42,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 60,
+    "col": 43,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 61,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 61,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 61,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 61,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 61,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 61,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 61,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 61,
+    "col": 33,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 61,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 62,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 62,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 62,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 62,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 62,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 62,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 62,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 62,
+    "col": 32,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 62,
+    "col": 40,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 62,
+    "col": 42,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 62,
+    "col": 44,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 62,
+    "col": 45,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 63,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 63,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 63,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 63,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 63,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 63,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 63,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":string:",
+    "line": 63,
+    "col": 33,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 63,
+    "col": 41,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 63,
+    "col": 43,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 64,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 64,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 64,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 64,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 64,
+    "col": 17,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 64,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 64,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 64,
+    "col": 27,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 64,
+    "col": 28,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 65,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 65,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 65,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 65,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 65,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 65,
+    "col": 20,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 65,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 66,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 66,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 66,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 66,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 66,
+    "col": 17,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 66,
+    "col": 19,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 66,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 66,
+    "col": 27,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 66,
+    "col": 29,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 66,
+    "col": 30,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 67,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 67,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 67,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "parm1",
+    "line": 67,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 67,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "param2",
+    "line": 67,
+    "col": 20,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 67,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 67,
+    "col": 28,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 68,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 68,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 68,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 68,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 69,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 69,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 69,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 69,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 69,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "keyword.func",
+    "value": "func",
+    "line": 70,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 70,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ":",
+    "line": 70,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "extend",
+    "line": 79,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "keyword.enum",
+    "value": "enum",
+    "line": 82,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 82,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 82,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "a",
+    "line": 82,
+    "col": 13,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 82,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "keyword.enum",
+    "value": "enum",
+    "line": 83,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 83,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 83,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "a",
+    "line": 83,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 83,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "b",
+    "line": 83,
+    "col": 17,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 83,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "keyword.enum",
+    "value": "enum",
+    "line": 84,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 84,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 84,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "a",
+    "line": 84,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "b",
+    "line": 84,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 84,
+    "col": 18,
+    "depth": 0
+  },
+  {
+    "type": "keyword.enum",
+    "value": "enum",
+    "line": 85,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 85,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 85,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "a",
+    "line": 85,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 85,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 85,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 85,
+    "col": 21,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 85,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "keyword.enum",
+    "value": "enum",
+    "line": 86,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 86,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 86,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "a",
+    "line": 86,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 86,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 86,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 86,
+    "col": 21,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "b",
+    "line": 86,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 86,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 86,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 86,
+    "col": 30,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 86,
+    "col": 31,
+    "depth": 0
+  },
+  {
+    "type": "keyword.enum",
+    "value": "enum",
+    "line": 87,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 87,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 87,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "a",
+    "line": 87,
+    "col": 14,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 87,
+    "col": 15,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 87,
+    "col": 16,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 87,
+    "col": 21,
+    "depth": 0
+  },
+  {
+    "type": "sep",
+    "value": ",",
+    "line": 87,
+    "col": 22,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "b",
+    "line": 87,
+    "col": 24,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 87,
+    "col": 25,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":int:",
+    "line": 87,
+    "col": 26,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 87,
+    "col": 31,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 87,
+    "col": 32,
+    "depth": 0
+  },
+  {
+    "type": "keyword.mod",
+    "value": "mod",
+    "line": 94,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 94,
+    "col": 4,
+    "depth": 0
+  },
+  {
+    "type": "block.open",
+    "value": "{",
+    "line": 94,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "block.close",
+    "value": "}",
+    "line": 94,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "keyword.mod",
+    "value": "mod",
+    "line": 95,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "ident",
+    "line": 95,
+    "col": 5,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": "<",
+    "line": 95,
+    "col": 11,
+    "depth": 0
+  },
+  {
+    "type": "string",
+    "value": " first_class_structure",
+    "line": 95,
+    "col": 12,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": ">",
+    "line": 95,
+    "col": 35,
+    "depth": 0
+  },
+  {
+    "type": "atdoc",
+    "value": "@(ident) testing docs\r",
+    "line": 98,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "atdoc",
+    "value": "@(ident) testing docs ",
+    "line": 98,
+    "col": 23,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "log",
+    "line": 98,
+    "col": 47,
+    "depth": 0
+  },
+  {
+    "type": "param.open",
+    "value": "(",
+    "line": 98,
+    "col": 50,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "out",
+    "line": 98,
+    "col": 51,
+    "depth": 0
+  },
+  {
+    "type": "param.close",
+    "value": ")",
+    "line": 98,
+    "col": 54,
+    "depth": 0
+  },
+  {
+    "type": "keyword.control.const",
+    "value": "const",
+    "line": 101,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "x",
+    "line": 101,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "unsear",
+    "value": "=",
+    "line": 101,
+    "col": 8,
+    "depth": 0
+  },
+  {
+    "type": "array.open",
+    "value": "[",
+    "line": 101,
+    "col": 10,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":[a,b]:",
+    "line": 104,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "type.generic",
+    "value": ":'a:",
+    "line": 105,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":['a,'b]:",
+    "line": 106,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":['a'b]:",
+    "line": 107,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":a:",
+    "line": 108,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":a(a):",
+    "line": 109,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":a(a,b):",
+    "line": 110,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":a([a,b]):",
+    "line": 111,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":a('a):",
+    "line": 112,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":a('a,'b):",
+    "line": 113,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":a(['a,'b]):",
+    "line": 114,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":a('a'b):",
+    "line": 115,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.other",
+    "value": ":a(['a'b]):",
+    "line": 116,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "type.simple",
+    "value": ":any:",
+    "line": 117,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "period",
+    "value": ".",
+    "line": 117,
+    "col": 6,
+    "depth": 0
+  },
+  {
+    "type": "ident",
+    "value": "whatever",
+    "line": 117,
+    "col": 7,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 123,
+    "line": 120,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": 0.123,
+    "line": 121,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": -123,
+    "line": 122,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "num",
+    "value": -0.123,
+    "line": 123,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "string",
+    "value": " #'",
+    "line": 126,
+    "col": 0,
+    "depth": 0
+  },
+  {
+    "type": "string",
+    "value": " # sdf # \\\" # ",
+    "line": 127,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "string",
+    "value": " :g:",
+    "line": 128,
+    "col": 1,
+    "depth": 0
+  },
+  {
+    "type": "array.close",
+    "value": "]",
+    "line": 133,
+    "col": 1,
+    "depth": 0
+  }
+]

@@ -1,0 +1,103 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "onion",
+	"patterns": [
+		{
+			"include": "#numbers"
+		},
+		{
+			"include": "#types"
+		},
+        {
+			"include": "#sprc"
+		},
+        {
+			"include": "#types"
+		},
+        {
+			"include": "#comment"
+		},
+        {
+			"include": "#atdoc"
+		},
+        {
+			"include": "#keywords"
+		},
+		{
+			"include": "#strings"
+		}
+	],
+	"repository": {
+		"keywords": {
+			"patterns": [{
+				"name": "keyword.onion",
+				"match": "\\b(func|enum|class|operator|mixin|mod|import|as|extends)\\b"
+			},{
+				"name": "keyword.operator.onion",
+				"match": "(==|!=|\\*|/|\\+|-|%|\\.\\.)"
+			},{
+				"name": "keyword.control.onion",
+				"match": "\\b(if|while|for|return|loop|let|const|in|of)\\b"
+			},{
+				"name": "constant.other.onion",
+				"match": "\\b(true|false)\\b"
+			}]
+		},
+        "comment": {
+			"patterns": [{
+				"name": "comment.onion",
+				"match": "(#.*?#)|(#.*)"
+			}]
+		},
+        "_atdoc": {
+			"patterns": [{
+				"name": "comment.onion",
+				"match": "(@\\([a-zA-Z][a-zA-Z0-9_]*\\).*?@)|(@\\([a-zA-Z][a-zA-Z0-9_]*\\).*)"
+			}]
+		},
+        "types": {
+			"patterns": [{
+				"name": "support.type.onion",
+				"match": "(:[a-zA-Z0-9_,\\.\\(\\)\\[\\]']*?:)"
+			}]
+		},
+        "numbers": {
+			"patterns": [{
+				"name": "constant.numeric.onion",
+				"match": "-?\\b[0-9]+(\\.[0-9]+)*"
+			}]
+		},
+        "sprc": {
+			"patterns": [{
+				"name": "support.function.onion",
+				"match": "([a-zA-Z][a-zA-Z0-9_]*)?(\\.?[a-zA-Z][a-zA-Z0-9_]*)*[\\t\\s\\n]*\\("
+			},{
+				"name": "support.constant.onion",
+				"match": "([a-zA-Z][a-zA-Z0-9_]*)?(\\.[a-zA-Z][a-zA-Z0-9_]*)+"
+			}]
+		},
+		"strings": {
+			"name": "string.quoted.double.onion",
+			"begin": "\"",
+			"end": "\"",
+			"patterns": [
+				{
+					"name": "constant.character.escape.onion",
+					"match": "\\\\."
+				}
+			]
+		},
+        "atdoc": {
+			"name": "constant.numeric.onion",
+			"begin": "@\\([a-zA-Z][a-zA-Z0-9_]*\\)",
+			"end": "@|\n",
+			"patterns": [
+				{
+					"name": "constant.character.escape.onion",
+					"match": "\\\\."
+				}
+			]
+		}
+	},
+	"scopeName": "onion"
+}

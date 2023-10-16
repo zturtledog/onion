@@ -1,0 +1,40 @@
+{
+  "name": "onion",
+  "displayName": "onion",
+  "description": "onion language support",
+  "publisher": "confusedParrotFish",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "languages": [
+      {
+        "id": "onion",
+        "aliases": [
+          "onion"
+        ],
+        "extensions": [
+          ".on",
+          ".onion"
+        ],
+        "configuration": "./language-configuration.json",
+        "icon": {
+          "dark": "./icons/onion-dark-min.svg",
+          "light": "./icons/onion-light-min.svg"
+        }
+      }
+    ],
+    "grammars": [
+      {
+        "language": "onion",
+        "scopeName": "onion",
+        "path": "./syntaxes/onion.tmLanguage.json"
+      }
+    ]
+  }
+}

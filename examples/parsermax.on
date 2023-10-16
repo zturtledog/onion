@@ -1,0 +1,134 @@
+# import
+import "" as ident
+
+# class
+class ident {}
+class ident extends :[std.collections]: {}
+
+# class 2 structures
+func loop_container {
+    # for in
+    for :int: ident in ident {}
+    for :int: ident in ident : # shadow
+    for ident in ident {}
+    for ident in ident : # shadow
+
+    # for of
+    for ident of ident {}
+    for ident of ident : # shadow
+
+    # for range
+    for (0..100) {}
+    for (0..100) : # shadow
+    for 0..100 {}
+    for 0..100 : # shadow
+
+    # loop
+    loop 23 {}
+    loop 23 : # shadow
+    loop 23 i {}
+    loop 23 i : # shadow
+    loop {}
+    loop : # shadow
+
+    # while
+    while (true) {}
+    while (true) : # shadow
+    while true {}
+    while true : # shadow
+}
+
+# functions
+func ident (parm1 :int: param2 :string:) :result(int): {}
+func ident (parm1 :int: param2 :string:) :result(int): #shadow
+func ident (parm1 param2) :result(int): {}
+func ident (parm1 param2) :result(int): #shadow
+func ident :result(int): {}
+func ident :result(int): # shadow
+func ident (parm1 :int: param2 :string:) {}
+func ident (parm1 :int: param2 :string:) #shadow
+func ident (parm1 :int: param2 :string:) : {}
+func ident (parm1 :int: param2 :string:) : #shadow
+func ident (parm1 param2) {}
+func ident (parm1 param2) # shadow
+func ident (parm1 param2) : {}
+func ident (parm1 param2) : # shadow
+func ident (parm1 :int:, param2 :string:) :result(int): {}
+func ident (parm1 :int:, param2 :string:) :result(int): #shadow
+func ident (parm1, param2) :result(int): {}
+func ident (parm1, param2) :result(int): #shadow
+func ident (parm1 :int:, param2 :string:) {}
+func ident (parm1 :int:, param2 :string:) #shadow
+func ident (parm1 :int:, param2 :string:) : {}
+func ident (parm1 :int:, param2 :string:) : #shadow
+func ident (parm1, param2) {}
+func ident (parm1, param2) # shadow
+func ident (parm1, param2) : {}
+func ident (parm1, param2) : # shadow
+func ident {}
+func ident : {}
+func ident : # shadow
+
+#.. func ident
+#       params > type > shadow | block
+#       type > shadow | block
+#       ':' > shadow | block
+# 'func'~ident~((params?~type~(block|shadow))|(':'~shadow|block))
+
+# extend
+extend
+
+#enum
+enum ident { a }
+enum ident { a, b}
+enum ident { a b }
+enum ident { a(:int:) }
+enum ident { a(:int:) b(:int:)}
+enum ident { a(:int:), b(:int:)}
+
+#.. enum ident
+#       enumcapture 
+# 'enum'~ident~('{'~(ident~('('~type~')')?~','?)*~'}')
+
+# mod
+mod ident {}
+mod ident <"first_class_structure">
+
+# at docs
+@(ident) testing docs
+@(ident) testing docs @ log(out)
+
+# const and hack to get things
+const x = [
+
+# types
+:[a,b]:
+:'a:
+:['a,'b]:
+:['a'b]:
+:a:
+:a(a):
+:a(a,b):
+:a([a,b]):
+:a('a):
+:a('a,'b):
+:a(['a,'b]):
+:a('a'b):
+:a(['a'b]):
+:any:.whatever
+
+# numbers
+123
+0.123
+-123
+-0.123
+
+# strings
+"#'"
+"# sdf # \" # "
+":g:"
+
+# type: can open str(1)
+# string: can modify comments
+
+]
